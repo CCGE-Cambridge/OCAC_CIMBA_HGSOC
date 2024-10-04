@@ -1,8 +1,0 @@
-&filenames
-PHENO_FILE    = '/lucy/vol2/genepi/andrewl/IMPUTE2/DATA/17q21_icogs.sample_pheno'
-KINSHIP_FILE  = '/lucy/vol2/genepi/andrewl/IMPUTE2/DATA/kinship.brca1.icogs.forScore.dat'
-SNP_INFO_FILE = '/lucy/vol2/genepi/andrewl/IMPUTE2/DATA/17q21.machinfo'
-GENO_FILE     = '/lucy/vol2/genepi/andrewl/IMPUTE2/DATA/17q21.machdose'
-RESULTS_FILE  = '/lucy/vol2/genepi/andrewl/IMPUTE2/RESULTS/17q21.results.csv'
-OVARIAN = .FALSE.
-/
